@@ -12,6 +12,7 @@ This project is a data visualization application created in a Jupyter Notebook. 
 - **Plotly**: A library for creating interactive plots.
 - **Requests**: A library for making HTTP requests.
 - **BeautifulSoup**: A library for web scraping.
+- **Selenium**: Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver.
 - **OpenPyXL**: A library for reading and writing Excel files.
 
 ## Installation
@@ -40,9 +41,16 @@ This project is a data visualization application created in a Jupyter Notebook. 
 
 ![image](https://github.com/user-attachments/assets/bc8d1646-b3b4-4a95-b237-c1233d9bdb88)
 
-4. Rows and columns with data coming from LinkedIn
+4. Rows and columns with company data coming from LinkedIn in BeautifulSoup
 
 ![image](https://github.com/user-attachments/assets/b8473ea7-0337-4a14-b25e-548e60a1132a)
+
+5. Rows and columns with contact data coming from LinkedIn in Selenium
+
+![image](https://github.com/user-attachments/assets/ff3ae741-46df-4363-9394-35c929c1acff)
+
+
+
 
 
 
